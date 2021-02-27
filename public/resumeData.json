@@ -1,0 +1,156 @@
+{
+  "main": {
+    "name":"Badhon Kumer Ghosh",
+    "description":"I am a full stack web developer ",
+    "image":"profilepic.jpeg",
+    "bio":"A Fresh Web Developer with knowledge of both front-end and back-end technologoy, aiming to be a Full-stack Web Developer.",
+    "contactmessage":"if you have any queries text me anytime",
+    "email": "badhonghosh09@gmail.com",
+    "phone": "01795-486529",
+    "github":"https://github.com/badhon09",
+    "project":"https://github.com/badhon09",
+    "address":{
+      "street":"Vatara",
+      "city":"Notunbazar,",
+      "state":"Dhaka",
+      "zip": "1212"
+    },
+    "website": "#",
+    "resumedownload":"#",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/tbaker_x",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"MY SKILL LEVELS",
+    "education":[
+      {
+        "school":"American International University-Bangladesh",
+        "degree":"Bachelor in Computer Science & Engineering",
+        "graduated":"present",
+        "description":"I currently study here"
+      },
+      {
+        "school":"Shahzadpur Govt. College",
+        "degree":"HSC",
+        "graduated":"2017",
+        "description":"I studied there & finished my Higher Secondary School Certifate"
+      }
+    ],
+    "work":[
+      {
+        "company":"Awesome Design Studio",
+        "title":"Senior UX God ",
+        "years":"March 2010 - Present",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"Super Cool Studio",
+        "title":"Junior bug fixer",
+        "years":"March 2007 - February 2010",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills":[
+      {
+        "name":"PHP",
+        "level":"80%"
+      },
+      {
+        "name":"Laravel",
+        "level":"85%"
+      },
+      {
+        "name":"Jquery",
+        "level":"70%"
+      },
+      {
+        "name":"NodeJs",
+        "level":"60%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"40%"
+      },
+      {
+        "name":"HTML/CSS",
+        "level":"60%"
+      },
+      {
+        "name":"MySql/MsSql/MongoDB",
+        "level":"77%"
+      },
+      {
+        "name":"ExpressJs",
+        "level":"70%"
+      },
+      {
+        "name":"ASP.DET",
+        "level":"55%"
+      },
+      {
+        "name":"C#",
+        "level":"50%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"E Healthcare (Laravel)",
+        "category":"Online Health caring web portal",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://github.com/badhon09/ehealthcare-laravel-project"
+      },
+      {
+        "title":"E Healthcare (Nodejs,express)",
+        "category":"Online Health caring web portal",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://github.com/badhon09/E-healthcare-project-node-js-express"
+      },
+      {
+        "title":"University System (Laravel)",
+        "category":"class supportive portal",
+        "image":"csp.png",
+        "url":"https://github.com/badhon09/university-portal-laravel-project"
+      },
+      {
+        "title":"Crowd Funding (Php)",
+        "category":"crowd funding website api included",
+        "image":"original-thai-food.jpg",
+        "url":"https://github.com/badhon09/CROWDFUNDING_FINAL_PROJECT"
+      },
+      {
+        "title":"Resume Website (ReactJs,NodeJs,Mongo)",
+        "category":"My Resume Website",
+        "image":"resume-website.jpg",
+        "url":"https://github.com/badhon09/My-Portfolio"
+      }
+      
+    ]
+  }
+}
